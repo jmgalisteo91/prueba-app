@@ -1,0 +1,26 @@
+.btn {
+    font-size: 1em;
+    background: transparent;
+    color: white;
+    display: block;
+    text-align: center;
+    margin: 1% auto;
+    border: 1px solid white;
+    width: auto;
+    font-weight: 600;
+    padding: 1%;
+}
+.btn:hover {
+    cursor: pointer;
+    color: black;
+    background: white;
+}
+body {
+    background: black;
+    color: white;
+    text-align: center;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
